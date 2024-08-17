@@ -1,0 +1,32 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 1
+https://raw.githubusercontent.com/call-centre/index/main/EU1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 2
+https://raw.githubusercontent.com/call-centre/index/main/EU2.m3u8
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 3
+https://raw.githubusercontent.com/call-centre/index/main/EU3.m3u8
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 4
+https://raw.githubusercontent.com/call-centre/index/main/EU4.m3u8
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 5
+https://raw.githubusercontent.com/call-centre/index/main/EU5.m3u8
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 6
+https://raw.githubusercontent.com/call-centre/index/main/EU6.m3u8
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 7
+https://raw.githubusercontent.com/call-centre/index/main/EU7.m3u8
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 8
+https://raw.githubusercontent.com/call-centre/index/main/EU8.m3u8
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 9
+https://raw.githubusercontent.com/call-centre/index/main/EU9.m3u8
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 10
+https://raw.githubusercontent.com/call-centre/index/main/EU10.m3u8
