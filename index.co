@@ -58,14 +58,14 @@ https://raw.githubusercontent.com/call-centre/index/main/lali5.m3u8
    
   
 ```````` # BUNDES LIGA # ````````
-#EXTINF:-1 group-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-all-sport.jpg"
+#EXTINF:-1 group-logo="https://jateng.disway.id/upload/9245aeea87494e7eab2244b3813c9a8e.png"
  
-#EXTINF:-1 tvg-logo="https://radarcirebon.disway.id/upload/2013/10/bundesliga.png" group-title="# BUNDES LIGA #", LIVE 1
- 
-#EXTINF:-1 tvg-logo="https://radarcirebon.disway.id/upload/2013/10/bundesliga.png" group-title="# BUNDES LIGA #", LIVE 2
- 
-#EXTINF:-1 tvg-logo="https://radarcirebon.disway.id/upload/2013/10/bundesliga.png" group-title="# BUNDES LIGA #", LIVE 3
- 
+#EXTINF:-1 tvg-logo="https://e0.pxfuel.com/wallpapers/271/706/desktop-wallpaper-bundesliga-logo-silk-texture-german.jpg" group-title="# BUNDES LIGA #", LIVE 1
+https://raw.githubusercontent.com/call-centre/index/main/bundes1.m3u8
+#EXTINF:-1 tvg-logo="https://e0.pxfuel.com/wallpapers/271/706/desktop-wallpaper-bundesliga-logo-silk-texture-german.jpg" group-title="# BUNDES LIGA #", LIVE 2
+https://raw.githubusercontent.com/call-centre/index/main/bundes2.m3u8
+#EXTINF:-1 tvg-logo="https://e0.pxfuel.com/wallpapers/271/706/desktop-wallpaper-bundesliga-logo-silk-texture-german.jpg" group-title="# BUNDES LIGA #", LIVE 3
+https://raw.githubusercontent.com/call-centre/index/main/bundes3.m3u8
 
 
 
