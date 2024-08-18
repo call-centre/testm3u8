@@ -3,45 +3,53 @@
 
 # LIGA INGGRIS #
 
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 1
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE ", LIVE 1
 https://raw.githubusercontent.com/call-centre/index/main/epel1.m3u8
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 2
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE ", LIVE 2
 https://raw.githubusercontent.com/call-centre/index/main/epel2.m3u8
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 3
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE ", LIVE 3
 https://raw.githubusercontent.com/call-centre/index/main/epel3.m3u8
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 4
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE ", LIVE 4
 https://raw.githubusercontent.com/call-centre/index/main/epel4.m3u8
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 5
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE ", LIVE 5
 https://raw.githubusercontent.com/call-centre/index/main/epel5.m3u8
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 6
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE ", LIVE 6
 https://raw.githubusercontent.com/call-centre/index/main/epel6.m3u8
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 7
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE ", LIVE 7
 https://raw.githubusercontent.com/call-centre/index/main/epel7.m3u8
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 8
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE ", LIVE 8
 https://raw.githubusercontent.com/call-centre/index/main/epel8.m3u8
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 9
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE ", LIVE 9
 https://raw.githubusercontent.com/call-centre/index/main/epel9.m3u8
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE #", LIVE 10
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="# PREMIER LEAGUE ", LIVE 10
 https://raw.githubusercontent.com/call-centre/index/main/epel10.m3u8
 
 
 # LIGA ITALI #
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA #", LIVE 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA ", LIVE 1
+https://raw.githubusercontent.com/call-centre/index/main/ligaitali1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA ", LIVE 2
+https://raw.githubusercontent.com/call-centre/index/main/ligaitali2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA ", LIVE 3
+https://raw.githubusercontent.com/call-centre/index/main/ligaitali3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA ", LIVE 4
+https://raw.githubusercontent.com/call-centre/index/main/ligaitali4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA ", LIVE 5
+https://raw.githubusercontent.com/call-centre/index/main/ligaitali5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA ", LIVE 6
+https://raw.githubusercontent.com/call-centre/index/main/ligaitali6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA ", LIVE 7
+https://raw.githubusercontent.com/call-centre/index/main/ligaitali7.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA ", LIVE 8
+https://raw.githubusercontent.com/call-centre/index/main/ligaitali8.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA ", LIVE 9
+https://raw.githubusercontent.com/call-centre/index/main/ligaitali9.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA ", LIVE 10
+https://raw.githubusercontent.com/call-centre/index/main/ligaitali10.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA #", LIVE 2
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA #", LIVE 3
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA #", LIVE 4
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA #", LIVE 5
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA #", LIVE 6
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA #", LIVE 7
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA #", LIVE 8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA #", LIVE 9
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="# LIGA ITALIA #", LIVE 10
