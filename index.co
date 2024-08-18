@@ -1,10 +1,70 @@
 #EXTM3U
 
-
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmproxy.digitalsvc.apps.nbcuni.com/drm-proxy/license/widevine?time=1723994001354&hash=09292054e8e01bd39496031cefe188d161e229ce01454bcd981377f26f073114&device=web
 #EXTINF:-1 group-title="Nbc",vuelta a espana stage 2
 https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS2-CTR-4s/Live/channel(12006498-12006498-443fc118b5662)/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/PGA_Tour_logo.svg/800px-PGA_Tour_logo.svg.png" group-title="Live Event",PGA Tour - FedEx St. Jude Championship: Main Feed (Final Round)
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F38%2Findex.m3u8&token=8389e0e4c8205fe60f32a9e15b90f3818ba9d599&is_vip=false&verify=1723982400-ISwYb0hMqhabTRe9mvUOMg34biFF0yDJ89h6G6EGCfY%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Ladies_Professional_Golf_Association.svg/640px-Ladies_Professional_Golf_Association.svg.png" group-title="Live Event",LPGA Tour - Women's Scottish Open
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F23%2Findex.m3u8&token=8389e0e4c8205fe60f32a9e15b90f3818ba9d599&is_vip=false&verify=1723982400-ISwYb0hMqhabTRe9mvUOMg34biFF0yDJ89h6G6EGCfY%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.iconpacks.net/icons/1/free-game-controller-icon-1436-thumb.png" group-title="Live Event",Esports Live - Modern Warfare 3 Day 4
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F15%2Findex.m3u8&token=ebcb4b5b74333bb524e0c9830a7d4d0ff4868975&is_vip=false&verify=1723982400-%2B9UW0E8MzwHfnfAs1GrpvL56XAdrq%2BU1MDmxBWZw0Gw%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.tapology.com/logos/1782/profile/_Brave_Combat_Federation-logo.png?1607196563" group-title="Live Event",Brave CF 85 - Lahore Pakistan
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F32%2Findex.m3u8&token=ebcb4b5b74333bb524e0c9830a7d4d0ff4868975&is_vip=false&verify=1723982400-%2B9UW0E8MzwHfnfAs1GrpvL56XAdrq%2BU1MDmxBWZw0Gw%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/640px-Premier_League_Logo.svg.png" group-title="Live Football",Premier League - Brentford vs Crystal Palace
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-iptv001.rumsport.com%2Flivetv%2F52437%2Findex.m3u8&token=ebcb4b5b74333bb524e0c9830a7d4d0ff4868975&is_vip=false&verify=1723982400-%2B9UW0E8MzwHfnfAs1GrpvL56XAdrq%2BU1MDmxBWZw0Gw%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/DFB-Pokal_logo_2016.svg/440px-DFB-Pokal_logo_2016.svg.png" group-title="Live Football",DFB Pokal - Saarbrücken vs Nürnberg
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F9%2Findex.m3u8&token=38e6a637886ddb9e471ca9343cac7bfded928acc&is_vip=false&verify=1723982400-I88AwN2KD6XV2tLgfUTg2lMdrKFth1bwUufXNuyq05Q%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/DFB-Pokal_logo_2016.svg/440px-DFB-Pokal_logo_2016.svg.png" group-title="Live Football",DFB Pokal - Jahn Regensburg vs Bochum
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F34%2Findex.m3u8&token=ebcb4b5b74333bb524e0c9830a7d4d0ff4868975&is_vip=false&verify=1723982400-%2B9UW0E8MzwHfnfAs1GrpvL56XAdrq%2BU1MDmxBWZw0Gw%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/DFB-Pokal_logo_2016.svg/440px-DFB-Pokal_logo_2016.svg.png" group-title="Live Football",DFB Pokal - Hansa Rostock vs Hertha BSC
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F33%2Findex.m3u8&token=ebcb4b5b74333bb524e0c9830a7d4d0ff4868975&is_vip=false&verify=1723982400-%2B9UW0E8MzwHfnfAs1GrpvL56XAdrq%2BU1MDmxBWZw0Gw%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqtvbTAtXf9a4625EMzIXM77O_waysvXebC1UiJQxWsTJv2B3xviR1dvk&s=10" group-title="Live Football",Ligue 1 - Auxerre vs Nice
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F14%2Findex.m3u8&token=ebcb4b5b74333bb524e0c9830a7d4d0ff4868975&is_vip=false&verify=1723982400-%2B9UW0E8MzwHfnfAs1GrpvL56XAdrq%2BU1MDmxBWZw0Gw%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/EFL_League_One_Logo.svg/1200px-EFL_League_One_Logo.svg.png" group-title="Live Football",League One - Bolton Wanderers vs Wrexham
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F18%2Findex.m3u8&token=ebcb4b5b74333bb524e0c9830a7d4d0ff4868975&is_vip=false&verify=1723982400-%2B9UW0E8MzwHfnfAs1GrpvL56XAdrq%2BU1MDmxBWZw0Gw%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/a/a1/20231126084855%21Scottish_Cup_logo.png" group-title="Live Football", Scottish Cup - Motherwell vs Kilmarnock
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-iptv001.rumsport.com%2Flivetv%2F67793%2Findex.m3u8&token=ebcb4b5b74333bb524e0c9830a7d4d0ff4868975&is_vip=false&verify=1723982400-%2B9UW0E8MzwHfnfAs1GrpvL56XAdrq%2BU1MDmxBWZw0Gw%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/a/a1/20231126084855%21Scottish_Cup_logo.png" group-title="Live Football", Scottish Cup - Dundee United vs St Mirren
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-iptv001.rumsport.com%2Flivetv%2F67792%2Findex.m3u8&token=ebcb4b5b74333bb524e0c9830a7d4d0ff4868975&is_vip=false&verify=1723982400-%2B9UW0E8MzwHfnfAs1GrpvL56XAdrq%2BU1MDmxBWZw0Gw%3D
 
 
 
