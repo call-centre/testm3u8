@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmproxy.digitalsvc.apps.nbcuni.com/drm-proxy/license/widevine?time=1723994001354&hash=09292054e8e01bd39496031cefe188d161e229ce01454bcd981377f26f073114&device=web
+#EXTINF:-1 group-title="Nbc",vuelta a espana stage 2
+https://g001-sle-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OS2-CTR-4s/Live/channel(12006498-12006498-443fc118b5662)/master.mpd
+
+
+
 ```````` # LIGA INGGRIS  ````````
 #EXTINF:-1 group-logo="https://jateng.disway.id/upload/ca4d46f37a766f4891bbfd2ce39d2fc4.png"
 
