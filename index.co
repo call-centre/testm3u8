@@ -43,13 +43,15 @@ https://raw.githubusercontent.com/call-centre/index/main/ligaitali5.m3u8
 #EXTINF:-1 group-logo="https://cdn1.comparetv.com.au/wp-content/uploads/2023/03/live-streaming-all-sport.jpg"
  
 #EXTINF:0 tvg-logo="https://beritabaru.co/wp-content/uploads/2023/06/laliga-2023-2024-new3252.logowik.com_.png" group-title="# LA LIGA #", LIVE 1
- 
+https://raw.githubusercontent.com/call-centre/index/main/lali1.m3u8
 #EXTINF:0 tvg-logo="https://beritabaru.co/wp-content/uploads/2023/06/laliga-2023-2024-new3252.logowik.com_.png" group-title="# LA LIGA #", LIVE 2
- 
+https://raw.githubusercontent.com/call-centre/index/main/lali2.m3u8
 #EXTINF:-1 tvg-logo="https://beritabaru.co/wp-content/uploads/2023/06/laliga-2023-2024-new3252.logowik.com_.png" group-title="# LA LIGA #", LIVE 3
- 
+https://raw.githubusercontent.com/call-centre/index/main/lali3.m3u8 
 #EXTINF:-1 tvg-logo="https://beritabaru.co/wp-content/uploads/2023/06/laliga-2023-2024-new3252.logowik.com_.png" group-title="# LA LIGA #", LIVE 4
- 
+https://raw.githubusercontent.com/call-centre/index/main/lali4.m3u8 
+#EXTINF:-1 tvg-logo="https://beritabaru.co/wp-content/uploads/2023/06/laliga-2023-2024-new3252.logowik.com_.png" group-title="# LA LIGA #", LIVE 5
+https://raw.githubusercontent.com/call-centre/index/main/lali5.m3u8 
    
   
 ```````` # BUNDES LIGA # ````````
