@@ -45,26 +45,26 @@ https://raw.githubusercontent.com/call-centre/index/main/ligaitali5.m3u8
 ```````` # LA LIGA # ````````
 #EXTINF:-1 group-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/84/2024/04/14/la-liga-ilustrasi-1548359696.jpg"
  
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/880/2024/06/19/Logo-Liga-spanyol-3122061272.jpg" group-title="# LA LIGA #", LIVE 1
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/880/2024/06/19/Logo-Liga-spanyol-3122061272.jpg" group-title="# LA LIGA ", LIVE 1
 https://raw.githubusercontent.com/call-centre/index/main/lali1.m3u8
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/880/2024/06/19/Logo-Liga-spanyol-3122061272.jpg" group-title="# LA LIGA #", LIVE 2
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/880/2024/06/19/Logo-Liga-spanyol-3122061272.jpg" group-title="# LA LIGA ", LIVE 2
 https://raw.githubusercontent.com/call-centre/index/main/lali2.m3u8
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/880/2024/06/19/Logo-Liga-spanyol-3122061272.jpg" group-title="# LA LIGA #", LIVE 3
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/880/2024/06/19/Logo-Liga-spanyol-3122061272.jpg" group-title="# LA LIGA ", LIVE 3
 https://raw.githubusercontent.com/call-centre/index/main/lali3.m3u8 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/880/2024/06/19/Logo-Liga-spanyol-3122061272.jpg" group-title="# LA LIGA #", LIVE 4
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/880/2024/06/19/Logo-Liga-spanyol-3122061272.jpg" group-title="# LA LIGA ", LIVE 4
 https://raw.githubusercontent.com/call-centre/index/main/lali4.m3u8 
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/880/2024/06/19/Logo-Liga-spanyol-3122061272.jpg" group-title="# LA LIGA #", LIVE 5
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/880/2024/06/19/Logo-Liga-spanyol-3122061272.jpg" group-title="# LA LIGA ", LIVE 5
 https://raw.githubusercontent.com/call-centre/index/main/lali5.m3u8 
    
   
 ```````` # BUNDES LIGA # ````````
 #EXTINF:-1 group-logo="https://jateng.disway.id/upload/9245aeea87494e7eab2244b3813c9a8e.png"
  
-#EXTINF:-1 tvg-logo="https://e0.pxfuel.com/wallpapers/271/706/desktop-wallpaper-bundesliga-logo-silk-texture-german.jpg" group-title="# BUNDES LIGA #", LIVE 1
+#EXTINF:-1 tvg-logo="https://e0.pxfuel.com/wallpapers/271/706/desktop-wallpaper-bundesliga-logo-silk-texture-german.jpg" group-title="# BUNDES LIGA ", LIVE 1
 https://raw.githubusercontent.com/call-centre/index/main/bundes1.m3u8
-#EXTINF:-1 tvg-logo="https://e0.pxfuel.com/wallpapers/271/706/desktop-wallpaper-bundesliga-logo-silk-texture-german.jpg" group-title="# BUNDES LIGA #", LIVE 2
+#EXTINF:-1 tvg-logo="https://e0.pxfuel.com/wallpapers/271/706/desktop-wallpaper-bundesliga-logo-silk-texture-german.jpg" group-title="# BUNDES LIGA ", LIVE 2
 https://raw.githubusercontent.com/call-centre/index/main/bundes2.m3u8
-#EXTINF:-1 tvg-logo="https://e0.pxfuel.com/wallpapers/271/706/desktop-wallpaper-bundesliga-logo-silk-texture-german.jpg" group-title="# BUNDES LIGA #", LIVE 3
+#EXTINF:-1 tvg-logo="https://e0.pxfuel.com/wallpapers/271/706/desktop-wallpaper-bundesliga-logo-silk-texture-german.jpg" group-title="# BUNDES LIGA ", LIVE 3
 https://raw.githubusercontent.com/call-centre/index/main/bundes3.m3u8
 
 
