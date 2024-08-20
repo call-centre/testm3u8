@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/archive/a/a1/20231126084855%21Scottish_Cup_logo.png" group-title="Live Football", TESS M3U8 DIRECT
 https://raw.githubusercontent.com/uploadplaylist/Error402/main/TES.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/PGA_Tour_logo.svg/800px-PGA_Tour_logo.svg.png" group-title="Live Event", TESS M3U8 
+https://raw.githubusercontent.com/call-centre/masterm3u8/main/ndosiar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/PGA_Tour_logo.svg/800px-PGA_Tour_logo.svg.png" group-title="Live Event",PGA Tour - FedEx St. Jude Championship: Main Feed (Final Round)
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/index.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
