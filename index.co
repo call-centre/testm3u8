@@ -311,16 +311,16 @@ https://raw.githubusercontent.com/call-centre/index/main/bundes2.m3u8
 https://raw.githubusercontent.com/call-centre/index/main/bundes3.m3u8
 
 ```````` # EREDIVISIE # ````````
-#EXTINF:-1 group-logo="https://www.logotypes101.com/logos/846/23ACA6EBA39485FC6EBE470E974AE28C/logo_eredivisie_2006_-_2016.png"
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="# EREDIVISIE ", Live 1
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/call-centre/index/main/ERE.jpg"
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/846/23ACA6EBA39485FC6EBE470E974AE28C/logo_eredivisie_2006_-_2016.png" group-title="# EREDIVISIE ", Live 1
 https://raw.githubusercontent.com/call-centre/index/main/eredev1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="# EREDIVISIE ", Live 2
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/846/23ACA6EBA39485FC6EBE470E974AE28C/logo_eredivisie_2006_-_2016.png" group-title="# EREDIVISIE ", Live 2
 https://raw.githubusercontent.com/call-centre/index/main/eredev2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="# EREDIVISIE ", Live 3
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/846/23ACA6EBA39485FC6EBE470E974AE28C/logo_eredivisie_2006_-_2016.png" group-title="# EREDIVISIE ", Live 3
 https://raw.githubusercontent.com/call-centre/index/main/eredev3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="# EREDIVISIE ", Live 4
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/846/23ACA6EBA39485FC6EBE470E974AE28C/logo_eredivisie_2006_-_2016.png" group-title="# EREDIVISIE ", Live 4
 https://raw.githubusercontent.com/call-centre/index/main/eredev4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="# EREDIVISIE ", Live 5
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/846/23ACA6EBA39485FC6EBE470E974AE28C/logo_eredivisie_2006_-_2016.png" group-title="# EREDIVISIE ", Live 5
 https://raw.githubusercontent.com/call-centre/index/main/eredev5.m3u8
 
 
@@ -1491,7 +1491,7 @@ https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7lYHWezI0idN8uY/zvVpFQ", "kid":"JSpnGCW6MeyEM/l4wyzPbQ" } ], "type":"temporary" }
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
   
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm20fF6kDXpCehvdFxJTsDsN1ep2IeiejmoUI_5Bi1_f9eH7LSt5jDtZVu4uxRRzrSPyM&usqp=CAU",La Liga TV
+#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm20fF6kDXpCehvdFxJTsDsN1ep2IeiejmoUI_5Bi1_f9eH7LSt5jDtZVu4uxRRzrSPyM&usqp=CAU",La Liga TV
 https://vipgoodlive-tvs.creativehub.sbs/La_Liga_TV_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
   
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Eng 2
@@ -1500,7 +1500,7 @@ https://vipgoodlive-tvs.creativehub.sbs/Bein_Sports_English_2_Live_TV/index.m3u8
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Eng 1
 https://vipgoodlive-tvs.creativehub.sbs/Bein_Sports_English_1_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://m.merlkinzie.com/wp-content/uploads/2021/01/cbs-sports-new-logo.png",Cbs Sports network
+#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://m.merlkinzie.com/wp-content/uploads/2021/01/cbs-sports-new-logo.png",Cbs Sports network
 https://vipgoodlive-tvs.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",Sup Vierty 4
