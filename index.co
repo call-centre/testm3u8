@@ -227,11 +227,11 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
 http://iptvtree.net:8080/F18819/6eb39c7d/298550
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="# 🟢LIVE EVENT🟢", STREAMIMNG 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="# 🟢LIVE EVENT🟢", EVENT 1
 https://raw.githubusercontent.com/call-centre/index/main/live1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="# 🟢LIVE EVENT🟢", STREAMIMNG 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="# 🟢LIVE EVENT🟢", EVENT 2
 https://raw.githubusercontent.com/call-centre/index/main/live2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="# 🟢LIVE EVENT🟢", STREAMIMNG 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="# 🟢LIVE EVENT🟢", EVENT 3
 https://raw.githubusercontent.com/call-centre/index/main/live3.m3u8
 
 
