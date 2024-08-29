@@ -227,6 +227,13 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
 http://iptvtree.net:8080/F18819/6eb39c7d/298550
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="# 🟢LIVE EVENT🟢", STREAMIMNG 1
+https://raw.githubusercontent.com/call-centre/index/main/live1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="# 🟢LIVE EVENT🟢", STREAMIMNG 2
+https://raw.githubusercontent.com/call-centre/index/main/live2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://raw.githubusercontent.com/call-centre/index/main/live.jpg" group-title="# 🟢LIVE EVENT🟢", STREAMIMNG 3
+https://raw.githubusercontent.com/call-centre/index/main/live3.m3u8
+
 
 
 
@@ -303,21 +310,28 @@ https://raw.githubusercontent.com/call-centre/index/main/bundes2.m3u8
 #EXTINF:-1 tvg-logo="https://e0.pxfuel.com/wallpapers/271/706/desktop-wallpaper-bundesliga-logo-silk-texture-german.jpg" group-title="# BUNDES LIGA ", LIVE 3
 https://raw.githubusercontent.com/call-centre/index/main/bundes3.m3u8
 
+```````` # EREDIVISIE # ````````
+#EXTINF:-1 group-logo="https://www.logotypes101.com/logos/846/23ACA6EBA39485FC6EBE470E974AE28C/logo_eredivisie_2006_-_2016.png"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="# EREDIVISIE ", Live 1
+https://raw.githubusercontent.com/call-centre/index/main/eredev1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="# EREDIVISIE ", Live 2
+https://raw.githubusercontent.com/call-centre/index/main/eredev2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="# EREDIVISIE ", Live 3
+https://raw.githubusercontent.com/call-centre/index/main/eredev3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="# EREDIVISIE ", Live 4
+https://raw.githubusercontent.com/call-centre/index/main/eredev4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPh8jXaFDp86f1knp66ofazPXSIWt79PltlA&usqp=CAU" group-title="# EREDIVISIE ", Live 5
+https://raw.githubusercontent.com/call-centre/index/main/eredev5.m3u8
+
 
 ```````` # MOTO GP # ````````
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/call-centre/index/main/motogp.jpg"
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/703x0/webp/photo/2021/08/12/1522286431.jpg" group-title="# MOTO GP ", LIVE MOTO GP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
-https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+https://raw.githubusercontent.com/call-centre/index/main/motogp.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/703x0/webp/photo/2021/08/12/1522286431.jpg" group-title="# MOTO GP ", LIVE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
-https://ziggo.natannafalah.workers.dev/016a/31483/FHD/skysportmotogp/master.mpd
+https://raw.githubusercontent.com/call-centre/index/main/motogp1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/703x0/webp/photo/2021/08/12/1522286431.jpg" group-title="# MOTO GP ", LIVE 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -337,17 +351,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/call-centre/index/main/f1.jpg"
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://cdn-5.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" group-title="# FORMULA 1 ",  LIVE 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00366649eb2eb82ee172e1bd310e4136:27e85c17d97722288ffa5970389d8baf
-https://ziggo.natannafalah.workers.dev/31478/FHD/skysportf1/master.mpd
+https://raw.githubusercontent.com/call-centre/index/main/formula1.m3u8
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://cdn-5.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" group-title="# FORMULA 1 ",  LIVE 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+https://raw.githubusercontent.com/call-centre/index/main/formula2.m3u8
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://cdn-5.motorsport.com/images/amp/68ey3q40/s1000/f1-abu-dhabi-gp-2017-f1-logo-6614911.jpg" group-title="# FORMULA 1 ",  LIVE 3
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
@@ -460,9 +467,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
  
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/SCTV.jpeg",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #EXTINF:-1 group-title="CHANNEL | NASIONAL" tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/uploadplaylist/Lego/main/INDOSIAR.jpeg",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
