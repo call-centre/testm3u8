@@ -1471,30 +1471,6 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
 
-#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-id="ÐœÐ°Ñ‚Ñ‡! Ð¤ÑƒÑ‚Ð±Ð¾Ð» 1" tvg-logo="https://i.ibb.co.com/TLDsrbz/matchf1.png", MATCH! FOOTBALL 1 ðŸ‡·ðŸ‡º
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-
-#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-id="ÐœÐ°Ñ‚Ñ‡! Ð¤ÑƒÑ‚Ð±Ð¾Ð» 2" tvg-logo="https://i.ibb.co.com/nQZWJ34/matchf2.png", MATCH! FOOTBALL 2 ðŸ‡·ðŸ‡º
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7cf9b28d1a8d874accebc44d7e1fcd:cda18d4d20abd5cc778315abe277feb9
-https://video.beeline.tv/live/d/channel320.isml/manifest-stb.mpd
-
-#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-id="ÐœÐ°Ñ‚Ñ‡! Ð¤ÑƒÑ‚Ð±Ð¾Ð» 3" tvg-logo="https://i.ibb.co.com/rFx8z4t/matchf3.png", MATCH! FOOTBALL 3 ðŸ‡·ðŸ‡º
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cfb55b12aaa9df1626a8adaa4f26329:84486e2e8e5fdee2ef8240019923078c
-https://video.beeline.tv/live/d/channel321.isml/manifest-stb.mpd
-
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-id="ÐœÐÐ¢Ð§ ÐŸÐ Ð•ÐœÐ¬Ð•Ð " tvg-logo="https://i.ibb.co.com/6HMSwdy/matchpremier.png", MATCH! PREMIERE ðŸ‡·ðŸ‡º
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1510,113 +1486,113 @@ https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=36d6377bb94b43a58af1c415ac686f4b:82fcba8160b4f88948cd3268bb330dbf
 https://m7huvideolive.solocoo.tv/blueskylive2dash/bluedigisport1hu/Manifest.mpd
 
-#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Premier_Sports_full_TV_Stream_439ab52b88.jpg",Premier Sports 1
-https://tvnid-stream.mantan.workers.dev/Premier_Sports_1/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Premier_Sports_full_TV_Stream_439ab52b88.jpg",Premier Sports 2
-https://tvnid-stream.mantan.workers.dev/Premier_Sports_2/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN 1
-https://tvnid-stream.mantan.workers.dev/ESPN_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2024/01/ESPN2.jpg.webp",ESPN 2
-https://tvnid-stream.mantan.workers.dev/ESPN_2_Live_TV/index.m3u8
-
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1280px-USA_Network_logo_%282016%29.svg.png",Usa Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7lYHWezI0idN8uY/zvVpFQ", "kid":"JSpnGCW6MeyEM/l4wyzPbQ" } ], "type":"temporary" }
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
   
-#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm20fF6kDXpCehvdFxJTsDsN1ep2IeiejmoUI_5Bi1_f9eH7LSt5jDtZVu4uxRRzrSPyM&usqp=CAU",La Liga TV
-https://tvnid-stream.mantan.workers.dev/La_Liga_TV_Live_TV/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm20fF6kDXpCehvdFxJTsDsN1ep2IeiejmoUI_5Bi1_f9eH7LSt5jDtZVu4uxRRzrSPyM&usqp=CAU",La Liga TV
+https://vipgoodlive-tvs.creativehub.sbs/La_Liga_TV_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
   
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Eng 2
-https://tvnid-stream.mantan.workers.dev/Bein_Sports_English_2_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Bein_Sports_English_2_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Eng 1
-https://tvnid-stream.mantan.workers.dev/Bein_Sports_English_1_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Bein_Sports_English_1_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
-#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://m.merlkinzie.com/wp-content/uploads/2021/01/cbs-sports-new-logo.png",Cbs Sports network
-https://tvnid-stream.mantan.workers.dev/CBS_Sports_Network_Live_TV/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://m.merlkinzie.com/wp-content/uploads/2021/01/cbs-sports-new-logo.png",Cbs Sports network
+https://vipgoodlive-tvs.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",Sup Vierty 4
-https://tvnid-stream.mantan.workers.dev/Variety_4_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Variety_4_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",Sup Vierty 3
-https://tvnid-stream.mantan.workers.dev/Variety_3_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Variety_3_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",Sup Vierty 2
-https://tvnid-stream.mantan.workers.dev/Variety_2_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Variety_2_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",Sup Vierty 1
-https://tvnid-stream.mantan.workers.dev/Variety_1_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Variety_1_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Tenis
-https://tvnid-stream.mantan.workers.dev/SuperSport_Tennis_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Tennis_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Rubgy
-https://tvnid-stream.mantan.workers.dev/SuperSport_Rugby_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Rugby_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Golf
-https://tvnid-stream.mantan.workers.dev/SuperSport_Golf_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Golf_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports football
-https://tvnid-stream.mantan.workers.dev/SuperSport_Football_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Cricket
-https://tvnid-stream.mantan.workers.dev/SuperSport_Cricket_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Bits
-https://tvnid-stream.mantan.workers.dev/SuperSport_Blitz_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Blitz_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Actions
-https://tvnid-stream.mantan.workers.dev/SuperSport_Action_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Action_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Laliga
-https://tvnid-stream.mantan.workers.dev/SuperSport_LaLiga_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports EFL
-https://tvnid-stream.mantan.workers.dev/SuperSport_Premier_League_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Racing
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Racing_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Racing_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Golf
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Golf_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Golf_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky F1
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_F1_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_F1_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Tenis
 #EXTVLCOPT:http-referer=https://starcdn.live/
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Tennis/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Tennis/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Cricket
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Cricket_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Arena
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Arena_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Arena_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Mix
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Mix_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Mix_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Actions
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Action_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Action_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Premier League
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Premier_League/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Main Event
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Main_Event/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Football
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Football_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",Fox Sports 1
-https://tvnid-stream.mantan.workers.dev/Fox_Sports_1_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Fox_Sports_1_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",Fox Sports 2
-https://tvnid-stream.mantan.workers.dev/Fox_Sports_2_Live_TV/index.m3u8
+https://vipgoodlive-tvs.creativehub.sbs/Fox_Sports_2_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
+
+#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Premier_Sports_full_TV_Stream_439ab52b88.jpg",Premier Sports 1
+https://vipgoodlive-tvs.creativehub.sbs/Premier_Sports_1/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
+
+#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Premier_Sports_full_TV_Stream_439ab52b88.jpg",Premier Sports 2
+https://vipgoodlive-tvs.creativehub.sbs/Premier_Sports_2/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
+
+#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN 1
+https://vipgoodlive-tvs.creativehub.sbs/ESPN_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
+
+#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2024/01/ESPN2.jpg.webp",ESPN 2
+https://vipgoodlive-tvs.creativehub.sbs/ESPN_2_Live_TV/index.m3u8|referer=https://player.goupnow.net/&user-agent=Mozilla/5.0 (X11; Linux ppc64le; rv:75.0) Gecko/20100101 Firefox/75.0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://corporate.comcast.com/media/img/1000w/2020/07/corporate_Web-Publishing_Peacock-Premier_16x9_Thumbnail.jpg" group-title="CHANNEL | OLAH RAGA DUNIA" ,Ai Peacock PL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1655,44 +1631,43 @@ https://dce-ak-livedazn.akamaized.net/dash/dazn-linear-044/stream.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 1
+#EXTINF:-1 tvg-id="" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 1
 #KODIPROP:inputstream.adaptive.manifest_type=Dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dce-ak-livedazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
 
  
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 2
+#EXTINF:-1 tvg-id="" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dce-ak-livedazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
 
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 3
+#EXTINF:-1 tvg-id="" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dce-ak-livedazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 4
+#EXTINF:-1 tvg-id="" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dce-ak-livedazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 5
+#EXTINF:-1 tvg-id="" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dce-ak-livedazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 6
+#EXTINF:-1 tvg-id="" tvg-name="eleven" tvg-logo="https://i.ibb.co.com/tQx6Zzk/daznxeleven.png" group-title="CHANNEL | OLAH RAGA DUNIA",DAZN ELEVEN 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dce-ak-livedazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
-
 
 #EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-id="playsports.be" tvg-logo="https://i.ibb.co.com/ryjz8NB/playsports1.png",PLAY SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
